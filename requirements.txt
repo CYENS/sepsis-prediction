@@ -1,0 +1,13 @@
+imbalanced-learn
+joblib
+keras-core
+lightgbm
+matplotlib
+numpy
+pandas
+prompt-toolkit
+scikit-learn
+tensorflow
+te2rules
+tqdm
+xgboost
